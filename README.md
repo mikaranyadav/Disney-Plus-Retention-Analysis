@@ -1,7 +1,7 @@
-# Disney-Plus-Retention-Analysis
+# Streaming Service Competitive & Retention Analysis
 An end-to-end analysis of subscriber churn using Python, Scikit-learn, and Tableau.
 
-# Disney+ SEA Subscriber Retention Analysis
+# Streaming Service Competitive & Retention Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
